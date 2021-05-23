@@ -840,7 +840,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print(" Build date: %s"%(build_date));
   script.Print(" Security patch: %s"%(security_patch));
   script.Print(" Device: %s"%(device));
-  script.Print(" By Iron,Sagar,Rahul,Dixz,Shreyas and Billou ");
+  script.Print(" By Team Octavi ");
   script.Print("--------------------------------------------------");
   device_specific.FullOTA_InstallBegin()
 
